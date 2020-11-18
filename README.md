@@ -7,7 +7,7 @@ which will perform significantly better than any video player inside the android
 What you need:
 
 0. 64-bit Windows.
-1. BlueStacks_bgp64 (64-bit Android version): [Official Link](https://cdn3.bluestacks.com/downloads/windows/bgp64/4.230.10.4001/096e978c8429333d618528e5c71af873/x64/BlueStacks-Installer_4.230.10.4001_amd64_native.exe) (Link fcredits go to on bstweaker.tk, if this gets outdated Google it or look there). Make sure the source is from bluestacks.com (as in this case) though, NEVER download Android emulators from anywhere else than the official site.
+1. BlueStacks_bgp64 (64-bit Android version): [Official Link](https://cdn3.bluestacks.com/downloads/windows/bgp64/4.230.10.4001/096e978c8429333d618528e5c71af873/x64/BlueStacks-Installer_4.230.10.4001_amd64_native.exe) (Link credits go to on bstweaker.tk, if this gets outdated Google it or look there). Make sure the source is from bluestacks.com (as in this case) though, NEVER download Android emulators from anywhere else than the official site.
 2. PotPlayer 64-bit on Windows: [Official Link](https://potplayer.daum.net/)
 3. AnimeGlare Beta installed in BlueStacks
 4. Obviously Real-Debrid/Premiumize etc. subscription. If you don't have one, I wonder why you are here reading this.
