@@ -20,9 +20,8 @@ Usage:
 1. Extract to any folder.
 2. Run create_shortcut.bat
 3. Right-click the generated "AnimeGlare Beta (BlueStacks)" shortcut, pin to taskbar.
-4. In wako/Helios settings, change default play action to "Let me choose".
-5. Select what to watch, scrape for cached torrents and long-tap your result of choice.
-6. That is all. PotPlayer will automatically start and play back your cloud file.
+4. Select what to watch, scrape for cached torrents and long-tap (long-leftclick) your result of choice.
+5. That is all. PotPlayer will automatically start and play back your cloud file.
 
 Info:
 This is written in Batch and AutoHotKey.
